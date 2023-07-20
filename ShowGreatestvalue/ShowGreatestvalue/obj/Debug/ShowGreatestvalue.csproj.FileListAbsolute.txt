@@ -1,0 +1,8 @@
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\bin\Debug\ShowGreatestvalue.exe.config
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\bin\Debug\ShowGreatestvalue.exe
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\bin\Debug\ShowGreatestvalue.pdb
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\obj\Debug\ShowGreatestvalue.csproj.AssemblyReference.cache
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\obj\Debug\ShowGreatestvalue.csproj.SuggestedBindingRedirects.cache
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\obj\Debug\ShowGreatestvalue.csproj.CoreCompileInputs.cache
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\obj\Debug\ShowGreatestvalue.exe
+E:\leetProblems\SearchGreatestValue\SearchGreatestValue\ShowGreatestvalue\ShowGreatestvalue\obj\Debug\ShowGreatestvalue.pdb
